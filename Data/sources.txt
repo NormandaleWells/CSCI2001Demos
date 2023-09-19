@@ -1,0 +1,35 @@
+This site:
+
+    https://gonaturalenglish.com/1000-most-common-words-in-the-english-language/
+
+is NOT a good list of words.  99 are duplicates, and it includes some
+abbreviations like Mr. (but not Miss, Mrs., or Ms.), TV, and PM (but not AM).
+
+==============
+
+words_3000 is from
+
+    https://www.ef.edu/english-resources/english-vocabulary/top-3000-words/
+
+I converted "I" to lower case for consistency.
+
+================
+
+words_10000 is from
+
+    https://www.mit.edu/~ecprice/wordlist.10000
+
+But it contains some sketchy words like "aa", "aaa", "ac", "abs", and many others.
+
+================
+
+Can no longer find the source of word_list.txt amd word_list_no_proper.txt.
+
+But this list contains many forms of each word (e.g. ignore, ignores, ignored, ignoring),
+which may be useful.  I added "i", which was missing (?!?!).
+
+===============
+
+airports.csv, amino.csv, misspellings.csv, and morse.csv are from
+
+    https://introcs.cs.princeton.edu/java/data/
