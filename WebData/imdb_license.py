@@ -1,2 +1,6 @@
-imdb_key = "d4951dd982msh7326f617610bcb8p1bbb56jsndd0d70a05021"
+'''
+Generate your own license key by going to rapidapi.com and signing
+up for an account.
+'''
+imdb_key = "<your license key here>"
 imdb_host = "imdb8.p.rapidapi.com"
