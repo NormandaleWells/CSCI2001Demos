@@ -1,0 +1,182 @@
+{
+  "880913": {
+    "name": [
+      "Phyllis",
+      "Jensen"
+    ],
+    "scores": {
+      "assignments": [
+        75,
+        99,
+        92,
+        75
+      ],
+      "exams": [
+        92,
+        78
+      ]
+    }
+  },
+  "100720": {
+    "name": [
+      "Travis",
+      "Mckenzie"
+    ],
+    "scores": {
+      "assignments": [
+        94,
+        91,
+        87,
+        97
+      ],
+      "exams": [
+        90,
+        79
+      ]
+    }
+  },
+  "710634": {
+    "name": [
+      "Rick",
+      "Castro"
+    ],
+    "scores": {
+      "assignments": [
+        87,
+        84,
+        96,
+        89
+      ],
+      "exams": [
+        81,
+        90
+      ]
+    }
+  },
+  "746127": {
+    "name": [
+      "Gwendolyn",
+      "Mckinney"
+    ],
+    "scores": {
+      "assignments": [
+        84,
+        91,
+        76,
+        83
+      ],
+      "exams": [
+        91,
+        99
+      ]
+    }
+  },
+  "157961": {
+    "name": [
+      "Boyd",
+      "Burgess"
+    ],
+    "scores": {
+      "assignments": [
+        91,
+        87,
+        84,
+        86
+      ],
+      "exams": [
+        76,
+        97
+      ]
+    }
+  },
+  "770773": {
+    "name": [
+      "Lawrence",
+      "Gardner"
+    ],
+    "scores": {
+      "assignments": [
+        90,
+        92,
+        87,
+        92
+      ],
+      "exams": [
+        92,
+        100
+      ]
+    }
+  },
+  "436710": {
+    "name": [
+      "Kelley",
+      "Watkins"
+    ],
+    "scores": {
+      "assignments": [
+        93,
+        98,
+        76,
+        78
+      ],
+      "exams": [
+        99,
+        88
+      ]
+    }
+  },
+  "667856": {
+    "name": [
+      "Irene",
+      "Larson"
+    ],
+    "scores": {
+      "assignments": [
+        90,
+        94,
+        98,
+        95
+      ],
+      "exams": [
+        78,
+        75
+      ]
+    }
+  },
+  "228558": {
+    "name": [
+      "Mandy",
+      "Welch"
+    ],
+    "scores": {
+      "assignments": [
+        79,
+        91,
+        80,
+        75
+      ],
+      "exams": [
+        80,
+        77
+      ]
+    }
+  },
+  "157762": {
+    "name": [
+      "Jim",
+      "Hoffman"
+    ],
+    "scores": {
+      "assignments": [
+        90,
+        98,
+        88,
+        89
+      ],
+      "exams": [
+        98,
+        82
+      ]
+    }
+  }
+}
