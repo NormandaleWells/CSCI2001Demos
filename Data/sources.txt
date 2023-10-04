@@ -12,6 +12,7 @@ words_3000 is from
     https://www.ef.edu/english-resources/english-vocabulary/top-3000-words/
 
 I converted "I" to lower case for consistency.
+Doesn't contain some common words, like "ate" and "dorm".
 
 ================
 
@@ -33,3 +34,21 @@ which may be useful.  I added "i", which was missing (?!?!).
 airports.csv, amino.csv, misspellings.csv, and morse.csv are from
 
     https://introcs.cs.princeton.edu/java/data/
+
+===============
+
+Collins Scrabble Words (2019).txt
+
+This is probably copyrighted, and should probably not be used for labs.
+Also, this lacks words that cannot be played in Scrabble, like knickknack.
+
+	https://drive.google.com/file/d/1oGDf1wjWp5RF_X9C7HoedhIWMh5uJs8s/view?pli=1
+	https://boardgames.stackexchange.com/questions/38366/latest-collins-scrabble-words-list-in-text-file
+
+=================
+
+words_4000_raw.txt -> process_4000.py -> words_4000.txt
+
+	https://www.worldclasslearning.com/english/4000-most-common-english-words.html
+
+Also doesn't have "ate"!
