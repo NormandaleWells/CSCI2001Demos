@@ -52,7 +52,7 @@ def get_filmography(person_id):
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     data = json.loads(response.text)
-    print(json.dumps(data, indent=2))
+    #print(json.dumps(data, indent=2))
     return data
 
     

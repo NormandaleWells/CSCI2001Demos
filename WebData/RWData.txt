@@ -1,0 +1,158 @@
+{
+  "id": "/name/nm6743808",
+  "base": {
+    "@type": "imdb.api.name.base",
+    "disambiguation": "XXV",
+    "id": "/name/nm6743808/",
+    "legacyNameText": "Wells, Richard (XXV)",
+    "name": "Richard Wells"
+  },
+  "filmography": [
+    {
+      "category": "actor",
+      "characters": [
+        "Another Bishop"
+      ],
+      "roles": [
+        {
+          "character": "Another Bishop"
+        }
+      ],
+      "id": "/title/tt26237514/",
+      "image": {
+        "height": 2477,
+        "id": "/title/tt26237514/images/rm2721463553",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDI0MjBmZWMtZGFiYy00NzM0LWIwZmQtMDg5NTg5OTE3ODM5XkEyXkFqcGdeQXVyNzIzODYwODQ@._V1_.jpg",
+        "width": 1981
+      },
+      "status": "completed",
+      "title": "Bonhoeffer",
+      "titleType": "movie"
+    },
+    {
+      "billing": 10,
+      "category": "actor",
+      "characters": [
+        "Taylor"
+      ],
+      "roles": [
+        {
+          "character": "Taylor"
+        }
+      ],
+      "id": "/title/tt22247450/",
+      "image": {
+        "height": 2048,
+        "id": "/title/tt22247450/images/rm2578843393",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmQwNWU5NTctM2ZkMS00YTQ4LThmM2UtMDZmODc0NjMzMTgzXkEyXkFqcGdeQXVyMTUwMjg2Nzg0._V1_.jpg",
+        "width": 1365
+      },
+      "status": "released",
+      "title": "The Royal Nanny",
+      "titleType": "tvMovie",
+      "year": 2022
+    },
+    {
+      "episodeAppearances": "/name/nm6743808/filmography/tt11981644",
+      "category": "actor",
+      "characters": [
+        "Crusty Professor"
+      ],
+      "endYear": 2022,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Crusty Professor",
+          "episodeCount": 1
+        }
+      ],
+      "startYear": 2022,
+      "id": "/title/tt11981644/",
+      "image": {
+        "height": 2125,
+        "id": "/title/tt11981644/images/rm3163868673",
+        "url": "https://m.media-amazon.com/images/M/MV5BZmNmZmYzNTgtZTFjNS00NDE5LTg2ODQtZDUwMTQ0ZTQzOTljXkEyXkFqcGdeQXVyOTEwNTkyNjE@._V1_.jpg",
+        "width": 1500
+      },
+      "status": "released",
+      "title": "Professor T",
+      "titleType": "tvSeries",
+      "year": 2021,
+      "episodes": [
+        {
+          "billing": 9,
+          "category": "actor",
+          "characters": [
+            "Crusty Professor"
+          ],
+          "roles": [
+            {
+              "character": "Crusty Professor"
+            }
+          ],
+          "id": "/title/tt15826090/",
+          "image": {
+            "height": 2738,
+            "id": "/title/tt15826090/images/rm2709740033",
+            "url": "https://m.media-amazon.com/images/M/MV5BNzBjYmFlYjUtY2Y3OS00Y2I0LWFhNWEtM2Y2NTA1NDEzZTFlXkEyXkFqcGdeQXVyMTI0NTg4NzMw._V1_.jpg",
+            "width": 4107
+          },
+          "status": "released",
+          "title": "Ring of Fire",
+          "titleType": "tvEpisode",
+          "year": 2022,
+          "episodeNumber": 1,
+          "releaseDate": "2023-09-03",
+          "seasonNumber": 2
+        }
+      ],
+      "seriesStartYear": 2021
+    },
+    {
+      "billing": 49,
+      "category": "actor",
+      "characters": [
+        "Avocat Clearstream"
+      ],
+      "roles": [
+        {
+          "character": "Avocat Clearstream"
+        }
+      ],
+      "id": "/title/tt3037028/",
+      "image": {
+        "height": 2607,
+        "id": "/title/tt3037028/images/rm2013341184",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGVkNmFlNWItMzc1NC00NDJmLTlkYTYtOTkxZGNlMzMwOWU3XkEyXkFqcGdeQXVyNDgzNjg5Nw@@._V1_.jpg",
+        "width": 1920
+      },
+      "status": "released",
+      "title": "The Clearstream Affair",
+      "titleType": "movie",
+      "year": 2014
+    },
+    {
+      "billing": 13,
+      "category": "actor",
+      "characters": [
+        "Colonel Martins"
+      ],
+      "roles": [
+        {
+          "character": "Colonel Martins"
+        }
+      ],
+      "id": "/title/tt3558196/",
+      "image": {
+        "height": 800,
+        "id": "/title/tt3558196/images/rm2105926912",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDU1MDk1MTEtZjE2My00MjYxLTk1YjEtMjUxMTU4NGY4YTI4XkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_.jpg",
+        "width": 600
+      },
+      "status": "released",
+      "title": "W. - The Killer of Flanders Fields",
+      "titleType": "movie",
+      "year": 2014
+    }
+  ]
+}
