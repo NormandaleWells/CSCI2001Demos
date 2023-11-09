@@ -122,6 +122,9 @@ def mergesort(a):
     mergesort(a2)
     merge(a1, a2, a)
 
+def timsort(a):
+    a.sort()
+
 def time_1_sort(name, alg, a):
     ''' Sort list a using algorithm alg, with the given name.
     
@@ -148,6 +151,7 @@ def test():
     time_1_sort("  insertion sort", insertion_sort, a)
     time_1_sort("insertion sort 2", insertion_sort_2, a)
     # time_1_sort("      merge sort", mergesort, a)
+    # time_1_sort("         timsort", timsort, a)
 
 if __name__ == "__main__":
     test()
