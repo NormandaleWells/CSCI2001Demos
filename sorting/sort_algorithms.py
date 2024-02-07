@@ -116,8 +116,8 @@ def mergesort(a):
     '''
     if len(a) <= 1: return
     mid = len(a) // 2
-    a1 = a[:mid]
-    a2 = a[mid:]
+    a1 = a[mid:]
+    a2 = a[:mid]
     mergesort(a1)
     mergesort(a2)
     merge(a1, a2, a)
@@ -141,13 +141,13 @@ def time_1_sort(name, alg, a):
 
 def test():
     # a = [27, 82, 41, 124, 62, 31, 94, 47, 142, 71, 214]
-    a = [i for i in range(10000)]
+    a = [i for i in range(1000000)]
     random.shuffle(a)
 
-    time_1_sort("  selection sort", selection_sort, a)
-    time_1_sort("  insertion sort", insertion_sort, a)
-    time_1_sort("insertion sort 2", insertion_sort_2, a)
-    # time_1_sort("      merge sort", mergesort, a)
+    # time_1_sort("  selection sort", selection_sort, a)
+    # time_1_sort("  insertion sort", insertion_sort, a)
+    # time_1_sort("insertion sort 2", insertion_sort_2, a)
+    time_1_sort("      merge sort", mergesort, a)
 
 if __name__ == "__main__":
     test()
