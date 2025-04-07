@@ -9,6 +9,11 @@ def time_one(f, n):
     
     Creates a list of n items with a[i] == i, then searches
     for each element.
+
+    This uses wall-clock time rather than process-specific
+    CPU time, but should be close enough.
+
+    The results are in milliseconds per function call.
     '''
 
     a = list(range(n))
@@ -17,7 +22,7 @@ def time_one(f, n):
         if f(a, key) != i:
             print(f"search failed for i = {i}!")
     end = time.perf_counter_ns()
-    return (end - start) / 1000000000
+    return ((end - start) / 1000) / n
 
 def main():
     n = int(input("Array size to test: "))
@@ -25,7 +30,7 @@ def main():
     bs_time = time_one(bs.index, n)
     ls_time = time_one(ls.index, n)
 
-    print(f"{n},{bs_time:.8f},{ls_time:.8f}")
+    print(f"{n},{bs_time:.3f},{ls_time:.3f}")
 
 if __name__ == "__main__":
     main()
