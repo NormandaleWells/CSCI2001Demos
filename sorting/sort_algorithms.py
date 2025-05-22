@@ -116,14 +116,11 @@ def mergesort(a):
     '''
     if len(a) <= 1: return
     mid = len(a) // 2
-    a1 = a[mid:]
-    a2 = a[:mid]
+    a1 = a[:mid]
+    a2 = a[mid:]
     mergesort(a1)
     mergesort(a2)
     merge(a1, a2, a)
-
-def timsort(a):
-    a.sort()
 
 def time_1_sort(name, alg, a):
     ''' Sort list a using algorithm alg, with the given name.
@@ -144,7 +141,7 @@ def time_1_sort(name, alg, a):
 
 def test():
     # a = [27, 82, 41, 124, 62, 31, 94, 47, 142, 71, 214]
-    a = [i for i in range(1000000)]
+    a = [i for i in range(80000)]
     random.shuffle(a)
 
     # time_1_sort("  selection sort", selection_sort, a)
